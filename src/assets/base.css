@@ -1,0 +1,34 @@
+/* colors */
+
+:root {
+    --darker-pink: #e15654;
+    --dark-pink: #f08482;
+    --light-pink: #FBF2ED;
+    --dark-green: #2E4D45;
+    --white: #F9F8F8;
+    --light-grey: #645E5E;
+    --dark-grey: #443E3D;
+    --transparent-pink: rgba(240, 132, 130, 0.9);
+    --transparent-grey: rgba(200, 200, 200, 0.5);
+    --transparent: rgba(0, 0, 0, 0);
+}
+
+
+/* semantic color variables for this project */
+
+:root {
+    --color-background: var(--light-pink);
+    --color-background-menu: var(--white);
+    --color-text: var(--dark-green);
+    --color-dark-text: var(--dark-green);
+    --color-important: var(--dark-pink);
+}
+
+@media (prefers-color-scheme: dark) {
+     :root {
+        --color-background: var(--dark-grey);
+        --color-background-menu: var(--light-grey);
+        --color-text: var(--light-pink);
+        --color-dark-text: var(--dark-green);
+    }
+}

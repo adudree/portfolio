@@ -1,0 +1,263 @@
+[{
+        "title": {
+            "fr": "Bloom",
+            "en": "Bloom"
+        },
+        "description": {
+            "fr": "<p class='synopsis'>Autrefois, tous les peuples vivaient en harmonie avec la Nature les entourant. Puis, il a été décidé de construire une Tour immense au centre de la Forêt des Esprits. Elle devait servir de tuteur à la Ronce dont les Monarques sont issus, de façon à ce qu’elle ne meure jamais.<br /> Aujourd’hui, cette Tour grandit toujours, et les Hommes ont oublié pourquoi. Seulement, elle absorbe de plus en plus de l’énergie de la Forêt qui l’entoure, l’asséchant et l’empoisonnant. <br /> Seul le Bourgeon né de la Ronce a la possibilité de changer les choses. <br /> </p> <p> Bloom est un projet de jeu en cours de réalisation dans le cadre de ma maîtrise en Création Numérique. Il s’agira d’un jeu solo d’aventure mixant 2D et 3D, dans lequel le joueur incarne un jeune bourgeon humanoïde en chemin pour rétablir l’ordre dans un monde en déclin. </p> <p>Passionnés de world-building, nous avons principalement développé notre univers et notre contexte au travers de visuels (2D et 3D), mais surtout de divers textes (conte, poème, manuel, journal de bord…). Pour la suite du projet, il est prévu que je travaille sur le développement (Unity ou Unreal Engine) ainsi que la gestion de projet.</p>",
+            "en": "<p class='synopsis'>Once upon a time, everybody lived in harmony with Nature. Then, they decided to build a gigantic Tower at the center of the Spirit Forest. This Tower should support the Bramble whom gave birth to the Monarques, in order to keep her alive forever. <br /> Today, this Tower is still growing, but nobody remembers why. However, it increasingly absorbs the Forest's energy, draining and poisoning it. <br /> Only the Bud, born from the Bramble, can make a difference. <br /></p><p> Bloom is a game project still in development in the context of my Master's degree in Digital Creation. It will be a solo game mixing 2D and 3D, in which the player will embody a young humanoid bud on his way to restore order in a declining world. </p> <p>As huge world-building lovers, we developed our universe with a lot of 2D/3D visuals and some texts (tale, poem, manual, diary, letter...). I will continue the project by working on development (Unity or Unreal Engine) and project management.</p>"
+        },
+        "partners": {
+            "fr": "avec Valentin Guiller, Théo Arnauld des Lions, Sacha Chouvin & Lola Karim",
+            "en": "with Valentin Guiller, Théo Arnauld des Lions, Sacha Chouvin & Lola Karim"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Unity C#",
+            "en": "Unity C#"
+        },
+        "link": {
+            "fr": "Lire le dossier de pré-conception",
+            "en": "Read the pre-design file (french)",
+            "url": "https://drive.google.com/file/d/16d5u9WTK9DQSLcmwpoatQmrdjiWsLZBL/view"
+        },
+        "year": "2023",
+        "img-mini": "bloom.png",
+        "img-ban": "bloom.png"
+    },
+    {
+        "title": {
+            "fr": "Road to Rouyn!",
+            "en": "Road to Rouyn!"
+        },
+        "description": {
+            "fr": "<p>Road to Rouyn! est un jeu 2D réalisé en seulement quelques jours. Lors de ma rentrée à l’UQAT (Rouyn-Noranda, Québec), nous avons eu pour consigne de réaliser un projet pour “défendre notre honneur”. En clair, je devais montrer ce que je savais faire à mes nouveaux camarades pour me présenter et leur donner envie de travailler avec moi. </p><p>J’ai donc réalisé un jeu inspiré du “Dino” de Google et de Flappy Bird. Le principe est simple : faire avancer l’avion le plus loin possible en se dirigeant au clavier et en évitant les obstacles sur la route, alors que la vitesse augmente au fur et à mesure. Les scores sont enregistrés, ce qui offre un aspect compétitif entre les différentes personnes qui voudraient y jouer.</p>",
+            "en": "<p>Road to Rouyn! is a 2D game realised in a few days. At my first day at UQAT (Quebec's University in Abitibi-Témiscamingue) I had to create a project in order to 'defend my honor', and make my new friends want to work with me. </p><p>I realised a game inspired by the Google's Dino and Flappy Bird : you have to make your plane go as fast as possible by avoiding the obtacles on the road with your speed increasing. Scores are saved, so it offers a competitive aspect between the players.</p>"
+        },
+        "partners": {
+            "fr": "Solo",
+            "en": "Solo"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Unity C#, Adobe Illustrator",
+            "en": "Unity C#, Adobe Illustrator"
+        },
+        "link": {
+            "fr": "Voir la démonstration",
+            "en": "See a demo",
+            "url": "https://drive.google.com/file/d/1XwdFJlEcPajE9DxE_L0-yfCpyY8JpGM3/view?usp=share_link"
+        },
+        "year": "2022",
+        "img-mini": "road-to-rouyn.png",
+        "img-ban": "road-to-rouyn.PNG"
+    }, {
+        "title": {
+            "fr": "La Quête du Dessert",
+            "en": "The Dessert Quest"
+        },
+        "description": {
+            "fr": "<p>The Dessert Quest est un court jeu narratif à choix, racontant la quête d’un héros affamé, prêt à braver tous les dangers d’un donjon pour retrouver la cuisinière afin qu’elle lui fasse son dessert. Il est accompagné d’une bouteille d’alcool, qui lui servira de compagnon de route.</p><p>Le joueur doit répondre à des dialogues à choix. Il peut également interagir avec son environnement, ainsi qu’avec la bouteille, dans laquelle il peut boire. Chacune de ces interactions a une influence directe sur le déroulement du jeu : effets visuels, fin différente… </p><p> Ce jeu a été réalisé dans le cadre d’un cours de mathématiques lors de ma seconde année à l’IMAC. Il avait pour objectif de mettre en œuvre différentes lois de probabilités étudiées en classe.</p>",
+            "en": "<p>The Dessert Quest is a short narrative game telling the story of a hungry hero, ready to face all kinds of dangers in order to find the cook and get his dessert. He is guided by a grumpy speaking alcohol's bottle.</p><p>The player has to make choices during the dialogues. He also can interact with his environment and the bottle. Each one of them has a direct influence on the game : visual effects, different ending...</p><p> This game has been realised in my mathematics class, during my IMAC's second year. The purpose was to code and use different probability laws seen in class.</p>"
+        },
+        "partners": {
+            "fr": "avec Marie Guillot",
+            "en": "with Marie Guillot"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Unity C#, Adobe Photoshop",
+            "en": "Unity C#, Adobe Photoshop"
+        },
+        "link": {
+            "fr": "Lire le rapport de projet",
+            "en": "Read the project report",
+            "url": "https://drive.google.com/file/d/1MBZf1BNBEVrju-k6EupxXm-8ISCEta1z/view?usp=share_link"
+        },
+        "year": "2022",
+        "img-mini": "the-dessert-quest.PNG",
+        "img-ban": "the-dessert-quest.PNG"
+    }, {
+        "title": {
+            "fr": "Animal Crossing API",
+            "en": "Animal Crossing API"
+        },
+        "description": {
+            "fr": "<p>Animal Crossing: New Horizons est un jeu de simulation de vie développé par Nintendo, dans lequel on incarne un personnage habitant une île déserte avec des animaux humanoïdes. Dans ce jeu, il y a de nombreux items à collectionner : insectes, poissons, œuvres d’art, fossiles… Les joueurs les plus investis (dont j’ai pu faire partie) utilisent des applications mobiles pour en faire le suivi et optimiser leur collecte. </p><p>Seulement, je n’ai pas trouvé de version desktop de ce genre d’application ; j’ai donc décidé de créer ma propre interface de gestion de mes collections en me servant de l’API officielle Animal Crossing. Du maquettage au développement, j’ai conçu une application sur-mesure, en exploitant les informations fournies par l’API en fonction de mes besoins.</p>",
+            "en": "<p>Animal Crossing: New Horizons is a social simulation game by Nintendo, in which you can embody an inhabitant of a desert island, living with humanoid animals. In this game, there is a lot of collectibles: bugs, fishes, artworks, fossils... The most invested players (I am one of them) use mobile apps in order to track their collection.</p><p>However, I didn't finds any desktop app to do this, so I decided to create my own. Using the Animal Crossing's official API, I made a customized app, from the wireframe to the interface.</p>"
+        },
+        "partners": {
+            "fr": "Solo",
+            "en": "Solo"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Figma, HTML, CSS, Vue.js",
+            "en": "Figma, HTML, CSS, Vue.js"
+        },
+        "link": {
+            "fr": "Voir la démonstration",
+            "en": "See a demo",
+            "url": "https://drive.google.com/file/d/11HNqOiY7gDY9G00BmLHlF7MGfo2OcXFX/view?usp=share_link"
+        },
+        "year": "2022",
+        "img-mini": "animal-crossing-api.PNG",
+        "img-ban": "animal-crossing-api.PNG"
+    }, {
+        "title": {
+            "fr": "Pixelophonia",
+            "en": "Pixelophonia"
+        },
+        "description": {
+            "fr": "<p>Pixelophonia est un orchestre associatif spécialisé dans la reprise de bande-son de jeu vidéo. Cet orchestre a la particularité de proposer à son public des concerts interactifs en le faisant participer à travers des jeux, des danses, des chants... Un de leurs jeux phares, 'le medley dont vous êtes le héros', consiste à faire voter le public afin de choisir la suite de la musique pour certains morceaux.</p><p>Cependant, l'orchestre ne disposait pas de moyen simple d'enregistrer les votes. C'est pour cela que nous avons réalisé notre application web Pixelophonia.</p><p>L'application est composée de trois parties majeures : l'interface joueur (accessible par mobile ou ordinateur, sur laquelle les joueurs vont pouvoir voter), l'écran de la salle projeté derrière l'orchestre pendant le concert (sur lequel sera projeté la question, les choix possibles, le temps restant et les réponses en direct) et l'interface administrateur, depuis laquelle il est possible de piloter en régie les concerts à lancer et les questions à poser. L'administrateur a également accès à toute une interface de gestion back-end afin de pouvoir créer et modifier lui-même ses concerts et questions.</p><p>J'ai pu toucher à la fois au développement front et back, et j'ai principalement été chargée de la création de l'interface d'administration.</p>",
+            "en": "<p>Pixelophonia is an associative orchestra specialized in video games OST. This orchestra offers interactive concerts to his public, making them to participate through games, dances, songs... One of their games, 'the medley in which you are the hero', consists of making the public to vote for the music's continuation.</p><p>However, the orchestra didn't dispose of simple way to catch the votes, so we did the Pixelophonia app.</p><p>The app is made up of three major parts: the player screen (mobile or desktop, from where the player can vote), the theatre screen behind the orchestra (where the questions and the results are displayed) and the admin screen (from where an admin can pilot the global screen). The admin can also use a back-end management interface in order to create and update easily all of the questions.</p><p>I worked on front-end and back-end development, and I was in charge of the creation of the admin interface.</p>"
+        },
+        "partners": {
+            "fr": "avec Sully-Ann Sorimoutou, Solem Tchangaï, Estelle Thouvenin",
+            "en": "with Sully-Ann Sorimoutou, Solem Tchangaï, Estelle Thouvenin"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "HTML, CSS, NuxtJS (Vue.js, Node.js, et de nombreux modules associés : Prisma, nuxt.auth, socket.io...)",
+            "en": "HTML, CSS, NuxtJS (Vue.js, Node.js, and a lot of other modules : Prisma, nuxt.auth, socket.io...)"
+        },
+        "link": {
+            "fr": "Voir le trailer",
+            "en": "See the trailer",
+            "url": "https://vimeo.com/709914059"
+        },
+        "year": "2022",
+        "img-mini": "pixelophonia.jpg",
+        "img-ban": "pixelophonia.jpg"
+    }, {
+        "title": {
+            "fr": "IRAINA",
+            "en": "IRAINA"
+        },
+        "description": {
+            "fr": "<p>Le but de ce projet était très simple : recoder l'oeuvre d'art générative de notre choix. J'ai décidé de recoder IRAINA, une oeuvre du peintre espagnol Manuel Barbadillo.</p><p>Cette oeuvre est à l'origine composée de 16 carrés en noir et blanc représentant une forme de crochet dans différentes orientations, formant ainsi des formes plus complexes. J'ai souhaité en garder la logique, mais proposer à l'utilisateur de découper l'oeuvre différemment (en plus petits carrés) de façon à ce que le motif se répète encore et encore. Il peut également intervertir les couleurs à sa guise.</p><p>Ce projet simple m'a permis de constater que la programmation et l'art peuvent être très proches, et que quelques lignes de code peuvent générer de véritables oeuvres d'art.</p>",
+            "en": "<p>The objective was simple: recode a chosen generative artwork. I decided to work on IRAINA  : recoder l'oeuvre d'art générative de notre choix. J'ai décidé de recoder IRAINA, awork of the spanish painter Manuel Barbadillo.</p><p>This artwork is originally made up of 16 black and white squares representing the shape of a hook in different orientations, creating more complex shapes. I chose to keep this logic while giving the player the capacity to increase the number of squares. He also can intervert the colors as he wants.</p><p>This simple project showed me how close programming and art can be, and how some lies of code can generate real artworks.</p>"
+        },
+        "partners": {
+            "fr": "Solo",
+            "en": "Solo"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "p5.js",
+            "en": "p5.js"
+        },
+        "link": {
+            "fr": "Voir le projet",
+            "en": "See the project",
+            "url": "https://adudree.github.io/iraina/"
+        },
+        "year": "2021",
+        "img-mini": "iraina.png",
+        "img-ban": "iraina.png"
+    }, {
+        "title": {
+            "fr": "Melod'IMAC",
+            "en": "Melod'IMAC"
+        },
+        "description": {
+            "fr": "<p>Parfois, lorsque l'on souhaite composer une musique, nous avons un début de mélodie en tête, mais nous ne savons pas forcément comment le terminer. Pour trouver l'inspiration, nous avons créé Melod'IMAC, un petit site web sur lequel les compositeurs en herbe peuvent entrer une courte mélodie et attendre que l'ordinateur calcule la fin, comme par magie !</p><p>Ce projet était principalement un prétexte pour découvrir et jouer un peu avec une réelle intelligence artificielle basée sur le Machine Learning.</p>",
+            "en": "Sometimes, when we create our own melody, we have a start in our heads, but we don't know how to finish it. So, we created Melod'IMAC, a website where people can enter the melody they want and wait for the computer to calculate the end of it by magic!</p><p>This project was an excuse to play a bit with a real AI based on Machine Learning."
+        },
+        "partners": {
+            "fr": "avec Yvan Smorag",
+            "en": "with Yvan Smorag"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "p5.js, magenta.js & MusicRNN",
+            "en": "p5.js, magenta.js & MusicRNN"
+        },
+        "link": {
+            "fr": "Voir le projet",
+            "en": "See the project",
+            "url": "https://adudree.github.io/melodimac/"
+        },
+        "year": "2021",
+        "img-mini": "melodimac.png",
+        "img-ban": "melodimac.png"
+    }, {
+        "title": {
+            "fr": "Où es-tu, Léandre ?",
+            "en": "Where are you, Léandre?"
+        },
+        "description": {
+            "fr": "<p class='synopsis'>Léandre, étudiant à l'IMAC, a disparu le lendemain de la journée portes ouvertes sans laisser de traces... Anna, une camarade de promotion, s'inquiète de plus en plus, et décide de contacter tous les participants à la JPO afin qu'ils l'aident à le retrouver en collaborant. Ainsi, les joueurs vont pouvoir échanger entre eux, fouiller des réseaux sociaux et des sites web, assister à des conférences, participer à des entretiens physiques ou téléphoniques avec des comédiens... dans l'objectif de retrouver Léandre et comprendre ce qui s'est passé.</p><p>Un ARG, pour Alternate Reality Game, ou Jeu en Réalité Alternée en français, est un récit interactif qui utilise la transmédialité à son maximum afin d’offrir à ses joueurs l’expérience la plus riche possible. Ancré à la fois dans le monde réel et le monde virtuel, l’ARG dépasse les frontières du simple escape game ou du jeu vidéo en permettant à son public d’échanger, de collaborer et d’avancer dans le récit en venant à bout d’énigmes accessibles en ligne ou dans la 'vraie vie'.</p><p>'Où es-tu, Léandre ?' est un ARG conceptualisé dans le cadre du cours de communication à l'IMAC. Il s'agit d'une enquête immersive sur plusieurs mois visant à faire découvrir certains aspects de la vie de l'IMAC à ses joueurs.</p>",
+            "en": "<p class='synopsis'>Léandre, an IMAC student, disappeared during the IMAC Open Day. His friend Anna worries a lot, and decides to contact all the Open Day visitors asking for help. The volunteers will participate, discussing, collaborating, searching on the Internet or attending to real-life events in order to find Léandre and understand what happened.</p><br /><p>An Alternate Reality Game is an interactive story using transmediality in order to give its players the richest experience possible. Both in a real and a fictive world, the ARG exceed the simple escape game or video game by offering a real large-scale collaborative experience to its players through puzzles and enigmas, accessible online or in real life.</p><p>'Where are you, Léandre?' is an ARG conceptualized during my IMAC's communication class. It's an immersive investigation following on several months. Its purpose is to show some unknown aspects of the life of the IMAC School.</p>"
+        },
+        "partners": {
+            "fr": "Solo",
+            "en": "Solo"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Adobe Indesign, Adobe Illustrator, Adobe Photoshop",
+            "en": "Adobe Indesign, Adobe Illustrator, Adobe Photoshop"
+        },
+        "link": {
+            "fr": "Lire mon ARG",
+            "en": "Read my ARG",
+            "url": "https://drive.google.com/file/d/1xNYjQwjBdIm295OVS-coJDHZdFWJpK4t/view?usp=share_link"
+        },
+        "year": "2021",
+        "img-mini": "ou-es-tu-leandre.png",
+        "img-ban": "ou-es-tu-leandre.png"
+    }, {
+        "title": {
+            "fr": "Strateria",
+            "en": "Strateria"
+        },
+        "description": {
+            "fr": "<p class='synopsis'>« Strateria est en danger.</p><p class='synopsis'>Seule l’Orbe permet de maintenir l’équilibre de ce royaume si spécial, divisé entre la Surface, où vivent en paix ses habitants, et les Tréfonds, immense prison souterraine, sur laquelle règne officieusement le Roi des Ombres. Mais ce-dernier a volé l’Orbe, et compte bien s’en servir pour changer le cours du monde en revenant à la Surface et en s’emparant du trône. Serez-vous prêts à l’en empêcher ? »</p> <p>Strateria est un jeu en 2D, jouable à deux, inspiré du célèbre jeu 'Pong', mais qui en remanie totalement le concept : les deux joueurs ne sont plus adversaires, mais alliés. Ils devront ainsi coopérer en se renvoyant la balle pour toucher les monstres situés entre eux, tout en évitant les attaques ennemies.</p><p>J’ai été en charge de la réalisation des logos du studio et du jeu. J’ai également eu pour rôle de m’occuper de la gestion globale du projet, de l’UI/UX design, ainsi que de la création de l’univers et de l’histoire du jeu et des personnages. J’ai aussi pris en charge la création et l’animation 2D des ennemis du jeu. Enfin, je me suis occupée du sound design et des musiques du jeu. Ces dernières sont propres au jeu et entièrement originales.</p>",
+            "en": "<p class='synopsis'>« Strateria is in danger.</p><p class='synopsis'>The Orb is the only thing maintaining this special kindom's balance, divided between the Surface, where its inhabitants live in peace, and the Depths, huge underground prison, where the King of Shadows reigns. But he stole the Orb, and want to use it to change the course of the world by going back to the Surface. Are you ready to stop him? »</p> <p>Strateria is a 2D two-players game, inspired by the 'Pong' game but with a new concept: the players are not enemies anymore. They will have to cooperate by sending a ball to each other in order to touche the monster between them and avoiding their attacks.</p><p>On this project, I was a graphist, 2D-animator, project manager, UX/UI designer, sound designer and compother: all the musics are originals.</p>"
+        },
+        "partners": {
+            "fr": "avec Esteban Cottignies & Yvan Alvarez",
+            "en": "with Esteban Cottignies & Yvan Alvarez"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Unity, Adobe Illustrator, Adobe Photoshop, beebop.co, Audacity, piskelapp.com",
+            "en": "Unity, Adobe Illustrator, Adobe Photoshop, beebop.co, Audacity, piskelapp.com"
+        },
+        "link": {
+            "fr": "",
+            "en": "",
+            "url": ""
+        },
+        "year": "2020",
+        "img-mini": "strateria.jpg",
+        "img-ban": "strateria.jpg"
+    }, {
+        "title": {
+            "fr": "InsIDe",
+            "en": "InsIDe"
+        },
+        "description": {
+            "fr": "<p>InsIDe est un jeu en réalité virtuelle destiné à présenter le département MMI de l’IUT de Tarbes de façon ludique aux visiteurs des journées portes ouvertes. Jouable à deux, il plonge les joueurs dans une version virtuelle de l’IUT, au sein de laquelle une IA les a enfermés. Ils devront coopérer pour arriver à bout des mini-jeux et énigmes qui leur barreront la route… et retrouver leur liberté. </p><p>Pour ce jeu, j’ai participé à l’élaboration du scénario et du game design, mais aussi à la scénographie et la gestion de projet. C’est également lors de ce projet que j’ai pu utiliser Unity pour la première fois.</p>",
+            "en": "<p>InsIDe is a coop VR game presenting the MMI department of the IUT of Tarbes in a ludic way to the visitors of the IUT Open Day. The two players are tricked in a virtual version of the IUT by an IA, named Heidi (ID). They will have to cooperate in order to defeat all the puzzles and games standing on their way... And access to freedom.</p><p>I worked on the scenario and the game design, on the scenography and the project management. I also used Unity for the first time.</p>"
+        },
+        "partners": {
+            "fr": "avec Yvan Alvarez, Quentin Bouvard, Alexandre Gatefossé, Aurore Lafaurie, Esteban Cottignies & Téo Guillamot",
+            "en": "with Yvan Alvarez, Quentin Bouvard, Alexandre Gatefossé, Aurore Lafaurie, Esteban Cottignies & Téo Guillamot"
+        },
+        "tags": [],
+        "tools": {
+            "fr": "Unity C#, Google Suite",
+            "en": "Unity C#, Google Suite"
+        },
+        "link": {
+            "fr": "Voir le trailer",
+            "en": "See the trailer",
+            "url": "https://youtu.be/h0WoEWFcvNw"
+        },
+        "year": "2020",
+        "img-mini": "inside.jpg",
+        "img-ban": "inside.JPG"
+    }
+]

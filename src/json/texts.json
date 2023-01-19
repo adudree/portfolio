@@ -1,0 +1,35 @@
+{
+    "home-description": {
+        "fr": "Bonjour ! Je suis une étudiante en multimédia à la recherche d'un stage de fin d'études dans le domaine du jeu vidéo ou du développement web. Diplômée d'un DUT MMI, en cours de formation d'ingénieur à l'IMAC et actuellement en échange au Québec, j'ai eu l'occasion de réaliser de nombreux projets dans différents domaines tout au long de mes études. Bonne découverte !",
+        "en": "Hi! I'm a multimedia student looking for an end-of-studies internship in the fields of web development and video games. I obtained a DUT MMI (2-years degree in multimedia), integrated the IMAC engineering school and I currently am in an international exchange in Quebec, Canada, so I realised a lot of projects during my studies. Enjoy!"
+    },
+    "home-cv-btn": {
+        "fr": "Voir mon CV",
+        "en": "See my resume (FR)"
+    },
+    "menu-home": {
+        "fr": "Accueil",
+        "en": "Home"
+    },
+    "menu-projects": {
+        "fr": "Projets",
+        "en": "Projects"
+    },
+    "menu-contact": {
+        "fr": "Contact",
+        "en": "Contact"
+    },
+    "project-tools": {
+        "fr": "Outils :",
+        "en": "Tools:"
+    },
+    "contact-title": {
+        "fr": "Contactez-moi !",
+        "en": "Contact me!"
+    },
+    "contact-city": {
+        "fr": "Toulouse (31)",
+        "en": "Toulouse (31, France)"
+    },
+    "contact-email": "maildaudreym@gmail.com"
+}
